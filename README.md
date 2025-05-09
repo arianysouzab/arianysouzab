@@ -1,6 +1,7 @@
 ## Hi there 👋
-I am Ariany Souza and I study digital design at UFC. 
-
+My name is Ariany Souza;
+I am a digital design student at Federal University of Ceará;
+I'm studying javascript.
 
 <!--
 **arianysouzab/arianysouzab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
