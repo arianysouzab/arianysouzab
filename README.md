@@ -2,6 +2,7 @@
 My name is Ariany Souza;
 I am a digital design student at Federal University of Ceará;
 I'm studying javascript.
+A fun fact about me is that I'm obsessed with Harry Potter universe.
 
 <!--
 **arianysouzab/arianysouzab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
