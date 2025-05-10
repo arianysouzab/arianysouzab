@@ -1,20 +1,15 @@
-## Hi there 👋
-My name is Ariany Souza;
-I am a digital design student at Federal University of Ceará;
-I'm studying javascript.
-A fun fact about me is that I'm obsessed with Harry Potter universe.
+## Hi there, I'm Ariany 👋
 
 <!--
 **arianysouzab/arianysouzab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Digital Design student at Federal University of Ceará
+- 🌱 I’m currently learning how to draw, javascript and IHC
+- 🤔 I’m looking for help with the subjects I am studying
+- 💬 Ask me about Harry Potter universe (I love it)
+- 📫 How to reach me: arianysouza@alu.ufc.br
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm very bad at volleyball, but I try a lot
 -->
